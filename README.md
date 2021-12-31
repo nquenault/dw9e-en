@@ -15,3 +15,8 @@ https://steamcommunity.com/app/1341200/discussions/0/3198117849821331303/
 
 12/30/2021 (2) :<br>
 * Fixes and new translations (new conquest menu, political menu, message boxes, various battlefield messages)
+
+12/31/2021 :<br>
+* Fixed crash due to last update
+* Added translation of territory names
+* Added partial translation of officer names
