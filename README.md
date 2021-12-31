@@ -20,3 +20,6 @@ https://steamcommunity.com/app/1341200/discussions/0/3198117849821331303/
 * Fixed crash due to last update
 * Added translation of territory names
 * Added partial translation of officer names
+
+01/01/2022 :<br>
+* CAW / Edit menu completely translated
