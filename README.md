@@ -10,16 +10,19 @@ Some texts are hard coded and cannot be translated.
 Discussion thread :<br>
 https://steamcommunity.com/app/1341200/discussions/0/3198117849821331303/
 
-12/30/2021 :<br>
-* More fixes and new translations in various menus (CAW, pre battle screen, political screen, message boxes..)
+01/02/2022 :<br>
+* Various fixes and new translations (some weapon attributes, descriptions at the bottom of the screen)
 
-12/30/2021 (2) :<br>
-* Fixes and new translations (new conquest menu, political menu, message boxes, various battlefield messages)
+01/01/2022 :<br>
+* CAW / Edit menu completely translated
 
 12/31/2021 :<br>
 * Fixed crash due to last update
 * Added translation of territory names
 * Added partial translation of officer names
 
-01/01/2022 :<br>
-* CAW / Edit menu completely translated
+12/30/2021 (2) :<br>
+* Fixes and new translations (new conquest menu, political menu, message boxes, various battlefield messages)
+
+12/30/2021 :<br>
+* More fixes and new translations in various menus (CAW, pre battle screen, political screen, message boxes..)
