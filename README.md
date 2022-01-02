@@ -10,6 +10,10 @@ Some texts are hard coded and cannot be translated.
 Discussion thread :<br>
 https://steamcommunity.com/app/1341200/discussions/0/3198117849821331303/
 
+02/02/2022 :<br>
+* Several fixes and tweaks
+* More officer names translated
+
 01/02/2022 :<br>
 * Various fixes and new translations (some weapon attributes, descriptions at the bottom of the screen)
 
