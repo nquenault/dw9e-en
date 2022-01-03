@@ -10,6 +10,10 @@ Some texts are hard coded and cannot be translated.
 Discussion thread :<br>
 https://steamcommunity.com/app/1341200/discussions/0/3198117849821331303/
 
+01/03/2022 (2) :
+* Various fixes and tweaks
+* More arrows and gems translations
+
 01/03/2022 :<br>
 * Several fixes and tweaks
 * More officer names translated
