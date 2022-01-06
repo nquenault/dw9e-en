@@ -10,6 +10,11 @@ Some texts are hard coded and cannot be translated.
 Discussion thread :<br>
 https://steamcommunity.com/app/1341200/discussions/0/3198117849821331303/
 
+01/07/2022 :
+* CAW/Edit mode fixes/changes
+* Some Secret Plan names translations
+* Abilities and various Titles translations
+
 01/06/2022 :
 * Orders translations
 * Some Secret Plans translations
