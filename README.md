@@ -10,6 +10,12 @@ Some texts are hard coded and cannot be translated.
 Discussion thread :<br>
 https://steamcommunity.com/app/1341200/discussions/0/3198117849821331303/
 
+01/07/2022 (2) :
+* Fixed buttons tips (bottom right)
+* Various fixes and new translations on the political screen
+* New translations on the Title Setting screen
+* Few new military units translations
+
 01/07/2022 :
 * CAW/Edit mode fixes/changes
 * Some Secret Plan names translations
