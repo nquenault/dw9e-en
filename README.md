@@ -10,6 +10,16 @@ Some texts are hard coded and cannot be translated.
 Discussion thread :<br>
 https://steamcommunity.com/app/1341200/discussions/0/3198117849821331303/
 
+01/20/2022 :
+* Fixed grades (eg: Grade1 => Epic)
+* Better artifact descriptions
+* Additional gem and bow attributes translations
+* Tweaked some gem attributes translations
+* Most of stratagem effects translated
+* Some stratagem names translation
+* Various fixes on Territory/Force Info screens
+* Proper "withdraw by" alert (now able to completely change colors and order of anything in a text!)
+
 01/08/2022 :
 * Various fixes and new translations (mostly battlefield related)
 
