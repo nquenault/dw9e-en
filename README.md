@@ -10,6 +10,9 @@ Some texts are hard coded and cannot be translated.
 Discussion thread :<br>
 https://steamcommunity.com/app/1341200/discussions/0/3198117849821331303/
 
+02/08/2022 :
+* Some secret plans translations and fixes
+
 01/20/2022 :
 * Fixed grades (eg: Grade1 => Epic)
 * Better artifact descriptions
