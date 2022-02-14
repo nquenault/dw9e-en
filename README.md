@@ -10,6 +10,9 @@ Some texts are hard coded and cannot be translated.
 Discussion thread :<br>
 https://steamcommunity.com/app/1341200/discussions/0/3198117849821331303/
 
+02/14/2022 :
+* Prettier victory and defeat conditions in the Force Info screen for both invasion and defense battles
+
 02/08/2022 :
 * Some secret plans translations and fixes
 
